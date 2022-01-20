@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>cie.png</file>
+    </qresource>
+</RCC>
